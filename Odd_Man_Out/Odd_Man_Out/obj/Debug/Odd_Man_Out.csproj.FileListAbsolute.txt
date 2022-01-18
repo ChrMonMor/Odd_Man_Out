@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\bin\Debug\Odd_Man_Out.exe.config
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\bin\Debug\Odd_Man_Out.exe
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\bin\Debug\Odd_Man_Out.pdb
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\obj\Debug\Odd_Man_Out.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\obj\Debug\Odd_Man_Out.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\obj\Debug\Odd_Man_Out.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\obj\Debug\Odd_Man_Out.exe
+C:\Users\HFGF\source\repos\Odd_Man_Out\Odd_Man_Out\Odd_Man_Out\obj\Debug\Odd_Man_Out.pdb
